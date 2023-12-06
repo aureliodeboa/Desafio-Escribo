@@ -46,5 +46,7 @@ Certifique-se de ter um navegador web instalado em seu computador.
 - **style.css:** Arquivo de estilo CSS para estilizar a página.
 - **script.js:** Código JavaScript que realiza o cálculo do somatório.
 
+## Acesse o desafio on-line
+https://desafio-escribo.netlify.app/
 
 
